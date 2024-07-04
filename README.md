@@ -1,4 +1,4 @@
-# kshirodSD
+# Kshirod Behera
 snowflake developer
 <h1 align="center">Hi 👋, I'm Kshirod Behera</h1>
 <h3 align="center">A passionate Snowflake Developer from India</h3>
