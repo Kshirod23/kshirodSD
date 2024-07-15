@@ -1,4 +1,6 @@
-##Hello, ![I am Kshirod Behera](https://github.com/Kshirod23/kshirodSD/blob/main/blue%20sky.png)
+###Hello, ![I am Kshirod Behera](https://github.com/Kshirod23/kshirodSD/blob/main/blue%20sky.png)
+
+![typing SVG]
 # Kshirod Behera
 snowflake developer
 <h1 align="center">Hi 👋, I'm Kshirod Behera</h1>
