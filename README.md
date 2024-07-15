@@ -1,4 +1,4 @@
-Hello, ![I am Kshirod Behera](https://github.com/Kshirod23/kshirodSD/blob/main/edit.jpeg)
+Hello 👋 ![I am Kshirod Behera](https://github.com/Kshirod23/kshirodSD/blob/main/edit.jpeg)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 snowflake developer
