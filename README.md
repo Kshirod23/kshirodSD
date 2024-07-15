@@ -1,11 +1,11 @@
 ###Hello, ![I am Kshirod Behera](https://github.com/Kshirod23/kshirodSD/blob/main/blue%20sky.png)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-![typing SVG]
-# Kshirod Behera
 snowflake developer
 <h1 align="center">Hi 👋, I'm Kshirod Behera</h1>
 <h3 align="center">A passionate Snowflake Developer from India</h3>
 
+# Kshirod Behera
 - 🔭 I’m currently working on **Adidas B2B Migration Project**
 
 <h3 align="left">Connect with me:</h3>
